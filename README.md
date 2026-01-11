@@ -1,31 +1,36 @@
-<h1 align="center">Hi 👋, I'm Dulyana Sandapiyumi</h1>
+<h1 align="center">Hi 👋, I'm Dulyana </h1>
 <h3 align="center">Business Information Systems Graduate | Tech & Business Enthusiast</h3>
 
 <p align="center">
-  🌐 Bridging Technology & Business  
-  <br/>
+  🌐 Bridging Technology & Business<br/>
   📍 Sri Lanka
 </p>
 
----
+<br/>
 
-## 🌟 About Me
-I am a **recent graduate in Business Information Systems** with a  
-**Higher Diploma in Computing and Software Engineering**, passionate about  
-leveraging **technology to improve business processes**.
+<h2>🌟 About Me</h2>
 
-- 🎓 BIS Graduate | HD in Computing & Software Engineering  
-- 💡 Interested in IT, business systems & digital solutions  
-- 🚀 Eager to grow in **IT and business management roles**  
-- 📚 Open to learning opportunities and professional growth
-</td>
-<td width="35%" align="center">
+<img
+  src="https://github.com/Dulyana444/Dulyana444/blob/a0a9c541550dca6580ee133e55ae2646e2d2b987/Computing.png"
+  width="260"
+  align="right"
+/>
 
-<img src="https://github.com/Dulyana444/Dulyana444/blob/a0a9c541550dca6580ee133e55ae2646e2d2b987/Computing.png" width="230"/>
+<p>
+I am a <b>recent graduate in Business Information Systems</b> with a
+<b>Higher Diploma in Computing and Software Engineering</b>, passionate about
+leveraging <b>technology to improve business processes</b>.
+</p>
 
-</td>
-</tr>
-</table>
+<ul>
+  <li>🎓 BIS Graduate | HD in Computing & Software Engineering</li>
+  <li>💡 Interested in IT, business systems & digital solutions</li>
+  <li>🚀 Eager to grow in <b>IT and business management roles</b></li>
+  <li>📚 Open to learning opportunities and professional growth</li>
+</ul>
+
+<br clear="right"/>
+
 
 ---
 
