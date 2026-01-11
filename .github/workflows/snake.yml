@@ -1,0 +1,25 @@
+name: GitHub Contribution Snake
+
+on:
+  schedule:
+    # Runs every day at 00:00 UTC
+    - cron: '0 0 * * *'
+  workflow_dispatch: # optional: allows manual run
+
+jobs:
+  commit-snake:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Configure Git
+        run: |
+          git config user.name "Dulyana444"
+          git config user.email "dulayanasandapiyumi@gmail.com"
+
+      - name: Create an empty commit
+        run: |
+          DATE=$(date '+%Y-%m-%d %H:%M:%S')
+          git commit --allow-empty -m "Contribution Snake: $DATE"
+          git push
