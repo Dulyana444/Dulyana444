@@ -37,7 +37,7 @@ leveraging <b>technology to improve business processes</b>.
 
 <h2>🤝 Connect with Me</h2>
 <div align="center">
-  <a href="www.linkedin.com/in/dulyana-sandapiyumi-5895583a5/">
+  <a href="https://www.linkedin.com/in/dulyana-sandapiyumi-5895583a5/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20" alt="LinkedIn"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=Dulyana444&label=Profile%20views&color=brightgreen&style=for-the-badge" alt="Profile Views" />
@@ -72,7 +72,6 @@ leveraging <b>technology to improve business processes</b>.
   <kbd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/></kbd>
   <kbd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/></kbd>
 </p>
-
 
 
 <!-- Mobile App Development -->
@@ -129,36 +128,5 @@ leveraging <b>technology to improve business processes</b>.
 </div>
 
 ---
-
-
-## 📂 Academic & Practical Projects
-- 📦 **Delivery Management System**  
-- 🌐 **Web-Based Conference Day Management System**  
-- 📱 **Mobile Application – Dog Nutrition & Product Finder**  
-
----
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
----
-
-## 🎯 Currently Focused On
-
 
 
