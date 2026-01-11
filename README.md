@@ -21,7 +21,7 @@ leveraging **technology to improve business processes**.
 </td>
 <td width="35%" align="center">
 
-<img src="" width="230"/>
+<img src="https://github.com/Dulyana444/Dulyana444/blob/a0a9c541550dca6580ee133e55ae2646e2d2b987/Computing.png" width="230"/>
 
 </td>
 </tr>
