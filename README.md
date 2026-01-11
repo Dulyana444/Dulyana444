@@ -36,29 +36,17 @@ leveraging <b>technology to improve business processes</b>.
 
 
 <h2>🤝 Connect with Me</h2>
-
-<p align="center">
-  <a href="www.linkedin.com/in/dulyana-sandapiyumi-5895583a5/" target="_blank">
-    <kbd>
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
-    </kbd>
+<div align="center">
+  <a href="www.linkedin.com/in/dulyana-sandapiyumi-5895583a5/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20" alt="LinkedIn"/>
   </a>
+  <img src="https://komarev.com/ghpvc/?username=Dulyana444&label=Profile%20views&color=brightgreen&style=for-the-badge" alt="Profile Views" />
+</div>
 
-  <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
-    <kbd>
-      <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
-    </kbd>
-  </a>
-
-  <a href="mailto:dulayanasandapiyumi@gmail.com">
-    <kbd>
-      <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
-    </kbd>
-  </a>
-</p>
 
 
 ---
+
 
 ## 🛠️ Languages and Tools
 
@@ -108,10 +96,40 @@ leveraging <b>technology to improve business processes</b>.
 
 ---
 
+## 📊 GitHub Analytics:
 
-## 📈 Contribution Snake
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dulyana444&show_icons=true&count_private=true&hide_border=false&title_color=ff6b6b&icon_color=ff6b6b&text_color=333&bg_color=ffffff" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dulyana444&layout=compact&hide_border=false&title_color=ff6b6b&text_color=333&bg_color=ffffff" />
+</div>
 
-![snake gif](https://github.com/Dulyana444/Dulyana444/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Dulyana444&theme=default&hide_border=false&ring=ff6b6b&fire=ff6b6b&currStreakLabel=ff6b6b" />
+</div>
+
+---
+
+
+## 📈 Contribution graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dulyana444&theme=tokyo-night"/>
+</p>
+
+
+## 🐍 Contribution Snake
+<div align="center">
+  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+---
+
 
 ## 📂 Academic & Practical Projects
 - 📦 **Delivery Management System**  
@@ -120,15 +138,6 @@ leveraging <b>technology to improve business processes</b>.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dulyana444&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dulyana444&layout=compact&theme=tokyonight" />
-</p>
 
 
 
