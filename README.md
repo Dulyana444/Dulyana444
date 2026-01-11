@@ -109,12 +109,9 @@ leveraging <b>technology to improve business processes</b>.
 ---
 
 
-## 📈 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dulyana444&theme=tokyo-night"/>
-</p>
+## 📈 Contribution Snake
 
----
+![snake gif](https://github.com/Dulyana444/Dulyana444/blob/output/github-contribution-grid-snake.svg)
 
 ## 📂 Academic & Practical Projects
 - 📦 **Delivery Management System**  
@@ -132,7 +129,6 @@ leveraging <b>technology to improve business processes</b>.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dulyana444&layout=compact&theme=tokyonight" />
 </p>
-
 
 
 
